@@ -1,5 +1,5 @@
-export default {
-  async fetch() {
-    return new Response("TEATIME TEST 12345");
-  }
-};
+{
+  "name": "teatime-loop",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-14"
+}
