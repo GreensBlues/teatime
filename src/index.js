@@ -1,6 +1,3 @@
-export default {
-  async fetch() {
-    
   const teaStrains = [
   "Earl Grey",
   "English Breakfast",
@@ -224,5 +221,3 @@ export default {
         });
       }
     };
-  }
-};
